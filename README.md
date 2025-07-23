@@ -1,9 +1,6 @@
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="Webhook Delivery Service" />
-
-  &#xa0;
-
-  <!-- <a href="https://bloggingwebsite.netlify.app">Demo</a> -->
+  <h2>Internship Assignment</h2>
 </div>
 
 <hr>
