@@ -111,9 +111,9 @@ The application provides these endpoints:
 ### AI Usage
 
 Chatgpt - 
-1) Most important, I was from Fast API and Django background. As it was instructed to do in Flask. So I used it a road map to learn Basic of Flask within one day and kept next day for development of the project because I got enough time.
+1) Most important, I was from Fast API and Django background. As it was instructed to do in Flask. So I used it a road map to learn basic of Flask within one day and kept next day for development of the project because I got enough time.
 
-2) For writing password validation function and some tests.
+2) For writing password validation function and some tests
 
 
 
