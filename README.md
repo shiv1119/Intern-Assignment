@@ -9,7 +9,7 @@
 <h1 align="center">Internship Assignment</h1>
 
   <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/shiv1119/Webhook-Delivery-Service?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/shiv1119/tree/main/User_Management_API?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/shiv1119/Webhook-Delivery-Service?color=56BEB8">
 
