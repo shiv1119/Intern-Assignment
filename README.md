@@ -6,7 +6,7 @@
   <!-- <a href="https://bloggingwebsite.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Webhook Delivery Service</h1>
+<h1 align="center">Internship Assignment</h1>
 
   <!--  <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/shiv1119/Webhook-Delivery-Service?color=56BEB8">
@@ -24,12 +24,8 @@
   <img alt="Github stars" src="https://img.shields.io/github/stars/shiv1119/Webhook-Delivery-Service?color=56BEB8" />
 </p>
 -->
-
-<h4 align="center"> 
-	🚧  Intern Assignment  🚧
-</h4> 
-
 <hr>
+Note - I have completed both the task.
 
 Made with :heart: by <a href="https://github.com/shiv1119" target="_blank">Shiv Nandan Verma</a>
 
