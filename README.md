@@ -7,7 +7,8 @@
 </div>
 
 <hr>
-First Task - <a href="https://github.com/shiv1119/Intern-Assignment/tree/main/User_Management_API">Click to open</a>
+First Task (Messy Migration) - <a href="https://github.com/shiv1119/Intern-Assignment/tree/main/User_Management_API">Click to open</a> <br>
+First Task (URL Shortener)- <a href="https://github.com/shiv1119/Intern-Assignment/tree/main/url-shortener">Click to open</a> <br>
 Note - I have completed both the task.
 
 
