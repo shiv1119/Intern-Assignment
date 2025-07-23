@@ -1,5 +1,8 @@
 # URL Shortener Service
 
+### Post Man Route testing collection url (Open collection in postman and run server and then send the request to server to get responses) - https://interstellar-resonance-436052.postman.co/workspace/Career-Booklet-profile-manageme~8ed84786-d16e-47b4-a71a-b4d619bcd29b/collection/33641353-19bd2496-75f8-4d96-9708-5b374debf314?action=share&creator=33641353
+
+
 ## Overview
 Build a simple URL shortening service similar to bit.ly or tinyurl. This assignment tests your ability to design and implement a small but complete feature from scratch.
 
@@ -152,6 +155,18 @@ You are permitted to use AI assistants (ChatGPT, GitHub Copilot, etc.) as you wo
 2. All tests passing
 3. Brief notes about your approach (optional)
 
+### Trade-offs Made
+
+1. **No Database for storage** - If server goes off all the stored data will be lost.
+
+2. **No caching** - for the trending url. Caching is important because it is likely that trending urls will be opened frequently which will just increase the server load. To avoid server load we can implement caching.
+
+3. **No Custom Url** - Suppose I wanted to make small some url that is to huge take example as post collection url. If i make it short then it will be random rather tah something "http://localhost:5000/url-shortner-postman-collection" like this.
+
+4. **No user login** - We implemented clicks counts but we do not have mapping whose is author of url.
+
+5. **No rate limiting** - Rate limiting is very crucial for the websites because attackers may automate to increase the click counts or visit counts which can make server busy.
+
 ### How to Submit
 1. Ensure all tests pass: `pytest`
 2. Create a zip of your solution
@@ -165,3 +180,4 @@ If you have questions about the requirements, please email [anand@retainsure.com
 ---
 
 Good luck! We're excited to see your solution.
+
