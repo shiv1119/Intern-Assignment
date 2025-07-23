@@ -7,9 +7,8 @@
 </div>
 
 <hr>
+First Task - <a href="https://github.com/shiv1119/Intern-Assignment/tree/main/User_Management_API">Click to open</a>
 Note - I have completed both the task.
-Made with :heart: by <a href="https://github.com/shiv1119" target="_blank">Shiv Nandan Verma</a>
 
-&#xa0;
 
 <a href="#top">Back to top</a>
